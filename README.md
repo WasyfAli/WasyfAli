@@ -11,7 +11,7 @@ Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer
 
 ## Skills
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
+<img src="https://img.shields.io/badge/Node%20Js-nodejsbadge-orange" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/Vue -41b883" />
 <img src="https://img.shields.io/badge/SCSS -FF0000" />  
 <img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
