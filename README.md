@@ -11,13 +11,12 @@ Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer
 
 ## Skills
 
-<img src="https://img.shields.io/badge/NodeJs-44b2fb" /> <img src="https://img.shields.io/badge/ReactJs-#badc57" /> <img src="https://img.shields.io/badge/ExpressJs -25CCF7" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/Vue -41b883" />
-<img src="https://img.shields.io/badge/SCSS -FF0000" />  
-<img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" />  
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
-
+<img src="https://img.shields.io/badge/NodeJs-44b2fb" /> <img src="https://img.shields.io/badge/ReactJs-badc57" /> <img src="https://img.shields.io/badge/ExpressJs -25CCF7" /> <img src="https://img.shields.io/badge/MongoDB -616C6F" />
+<img src="https://img.shields.io/badge/MySql -E74292" /> <img src="https://img.shields.io/badge/Materialize CSS -30a8fe" />
+<img src="https://img.shields.io/badge/Linux -EA7773" />  <img src="https://img.shields.io/badge/Bootstrap -E74292" />
+<img src="https://img.shields.io/badge/DevOps -1cc4b4" /> <img src="https://img.shields.io/badge/JavaScript -30a8fe" />
+<img src="https://img.shields.io/badge/HTML -FF0000" />  
+<img src="https://img.shields.io/badge/CSS -ff7b19" /> 
 </br>
 <details>
 	<summary>Tools</summary>
