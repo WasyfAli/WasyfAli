@@ -32,10 +32,10 @@ Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-		<li>Redhat Linux</li>
+	<li>Redhat Linux</li>
 		<li>Windows</li>
         
-	</ul>
+</ul>
 </details>
 </br>
 </br>
