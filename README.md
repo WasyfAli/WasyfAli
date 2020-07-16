@@ -22,9 +22,9 @@ Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer
 	<summary>Tools</summary>
 	<ul>
     	<li>Visual Studio Code</li>
-		<li>Adobe Illustrator</li>
-		<li>Adobe Photoshop</li>
-		<li>Adobe After Effects</li>
+		<li>Kubernetes</li>
+		<li>Jenkins</li>
+		<li>Git</li>
     </ul>
 
 </details>
@@ -32,8 +32,9 @@ Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
+		<li>Redhat Linux</li>
 		<li>Windows</li>
-        <li>Arch Linux</li>
+        
 	</ul>
 </details>
 </br>
