@@ -1,6 +1,6 @@
 # 🖥 Senior DevOps Engineer || Linux || Fullstack Developer || SRE || Cloud Engineer
 
-Hi, I'm Wasyf Ali, a passionate Fullstack developer & Red Hat Certified Engineer from India.
+Hi, I'm Wasyf Ali, a Senior DevOps Engineer, Cloud Engineer & passionate Fullstack developer from India.
 
 ## I am passionate about:
 
